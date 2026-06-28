@@ -1,4 +1,4 @@
-# 
+# Gratuito JetBrains Rider plantillas para Mac OS | Avanzado JetBrains Rider plantillas para PC Windows. Con soporte multilenguaje y gestión de contenedores — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
